@@ -89,7 +89,7 @@ export default {
           title: "PENDING",
           project: "PENDING",
           client: "PENDING",
-          language: "PENDING",
+          language: "PEND2ING",
           preview: "www.linkedin.com",
           previewLink:
             "https://www.linkedin.com/in/ib-themes-company-469408207/recent-activity/shares/",
